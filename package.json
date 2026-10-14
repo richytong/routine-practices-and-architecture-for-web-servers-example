@@ -1,0 +1,22 @@
+{
+  "name": "routine-practices-and-architecture-for-web-servers-example",
+  "version": "0.0.0",
+  "description": "Example for Routine Practices and Architecture for Web Servers for Back End Development in Software Engineering",
+  "author": "Richard Tong",
+  "license": "CFOSS",
+  "repository": {
+    "type": "git",
+    "url": "github:richytong/routine-practices-and-architecture-for-web-servers-example"
+  },
+  "homepage": "https://github.com/richytong/routine-practices-and-architecture-for-web-servers-example",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "presidium": "^4.4.1",
+    "rubico": "^2.19.5"
+  },
+  "devDependencies": {
+    "nyc": "^18.0.0"
+  }
+}
