@@ -1,4 +1,7 @@
 # Routine Practices and Architecture for Web Servers Example
+
+![Node.js CI](https://github.com/richytong/routine-practices-and-architecture-for-web-servers-example/workflows/Node.js%20CI/badge.svg)
+
 To run the code in the example, follow these instructions.
 
 First, clone the repository with `git`. You can use either the ssh or https command.
