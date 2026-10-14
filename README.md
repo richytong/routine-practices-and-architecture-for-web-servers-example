@@ -35,3 +35,9 @@ You can run the server by itself with this command.
 ```sh
 ./run
 ```
+
+## License
+The code in this example is freely distributed under the [CFOSS License](https://cloutsworld.com/en-us/legal/license/cfoss).
+
+## Support
+ * minimum Node.js version: 16
