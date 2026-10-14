@@ -15,8 +15,5 @@
   "dependencies": {
     "presidium": "^4.4.1",
     "rubico": "^2.19.5"
-  },
-  "devDependencies": {
-    "nyc": "^18.0.0"
   }
 }
